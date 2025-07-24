@@ -1,4 +1,4 @@
-package questoes.q2;
+package questoes.guz.q2;
 
 import java.util.Scanner;
 
