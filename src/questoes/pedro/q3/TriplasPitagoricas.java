@@ -1,4 +1,4 @@
-package questoes.pedro;
+package questoes.pedro.q3;
 
 import java.util.Scanner;
 
